@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search for searchTerm & searchValue When search is done for a searchValue of type Boolean returns the search results 1`] = `
+Object {
+  "_id": 101,
+  "created_at": "2016-05-21T11:10:28 -10:00",
+  "details": "MegaCorp",
+  "domain_names": Array [
+    "kage.com",
+    "ecratic.com",
+    "endipin.com",
+    "zentix.com",
+  ],
+  "external_id": "9270ed79-35eb-4a38-a46f-35725197ea8d",
+  "name": "Enthaze",
+  "shared_tickets": false,
+  "tags": Array [
+    "Fulton",
+    "West",
+    "Rodriguez",
+    "Farley",
+  ],
+  "url": "http://initech.zendesk.com/api/v2/organizations/101.json",
+}
+`;
+
+exports[`Search for searchTerm & searchValue When search is done for a searchValue of type Boolean returns the search results 2`] = `
+Object {
+  "_id": 102,
+  "created_at": "2016-04-07T08:21:44 -10:00",
+  "details": "Non profit",
+  "domain_names": Array [
+    "trollery.com",
+    "datagen.com",
+    "bluegrain.com",
+    "dadabase.com",
+  ],
+  "external_id": "7cd6b8d4-2999-4ff2-8cfd-44d05b449226",
+  "name": "Nutralab",
+  "shared_tickets": false,
+  "tags": Array [
+    "Cherry",
+    "Collier",
+    "Fuentes",
+    "Trevino",
+  ],
+  "url": "http://initech.zendesk.com/api/v2/organizations/102.json",
+}
+`;
+
+exports[`Search for searchTerm & searchValue When search is done for a searchValue of type Boolean returns the search results 3`] = `
+Object {
+  "_id": 103,
+  "created_at": "2016-05-28T04:40:37 -10:00",
+  "details": "Non profit",
+  "domain_names": Array [
+    "comvex.com",
+    "automon.com",
+    "verbus.com",
+    "gogol.com",
+  ],
+  "external_id": "e73240f3-8ecf-411d-ad0d-80ca8a84053d",
+  "name": "Plasmos",
+  "shared_tickets": false,
+  "tags": Array [
+    "Parrish",
+    "Lindsay",
+    "Armstrong",
+    "Vaughn",
+  ],
+  "ticket_0": "A Drama in Iraq",
+  "url": "http://initech.zendesk.com/api/v2/organizations/103.json",
+}
+`;
+
+exports[`Search for searchTerm & searchValue When search is done for a searchValue of type Boolean returns the search results 4`] = `
+Object {
+  "_id": 104,
+  "created_at": "2016-03-21T10:11:18 -11:00",
+  "details": "MegaCörp",
+  "domain_names": Array [
+    "anixang.com",
+    "exovent.com",
+    "photobin.com",
+    "marqet.com",
+  ],
+  "external_id": "f6eb60ad-fe37-4a45-9689-b32031399f93",
+  "name": "Xylar",
+  "shared_tickets": false,
+  "tags": Array [
+    "Hendricks",
+    "Mclaughlin",
+    "Stephens",
+    "Garner",
+  ],
+  "url": "http://initech.zendesk.com/api/v2/organizations/104.json",
+  "user_0": "Ingrid Wagner",
+}
+`;
+
+exports[`Search for searchTerm & searchValue When search is done for a searchValue of type Boolean returns the search results 5`] = `
+Object {
+  "_id": 105,
+  "created_at": "2016-06-06T02:50:27 -10:00",
+  "details": "MegaCorp",
+  "domain_names": Array [
+    "farmage.com",
+    "extrawear.com",
+    "bulljuice.com",
+    "enaut.com",
+  ],
+  "external_id": "52f12203-6112-4fb9-aadc-70a6c816d605",
+  "name": "Koffee",
+  "shared_tickets": false,
+  "tags": Array [
+    "Jordan",
+    "Roy",
+    "Mckinney",
+    "Frost",
+  ],
+  "url": "http://initech.zendesk.com/api/v2/organizations/105.json",
+}
+`;
+
+exports[`Search for searchTerm & searchValue When search is done for a searchValue of type Boolean returns the search results 6`] = `
+Object {
+  "_id": 106,
+  "created_at": "2016-07-23T09:48:02 -10:00",
+  "details": "Artisân",
+  "domain_names": Array [
+    "gology.com",
+    "myopium.com",
+    "synkgen.com",
+    "bolax.com",
+  ],
+  "external_id": "2355f080-b37c-44f3-977e-53c341fde146",
+  "name": "Qualitern",
+  "shared_tickets": false,
+  "tags": Array [
+    "Nolan",
+    "Rivas",
+    "Morse",
+    "Conway",
+  ],
+  "url": "http://initech.zendesk.com/api/v2/organizations/106.json",
+  "user_0": "Cross Barlow",
+}
+`;
+
+exports[`Search for searchTerm & searchValue When search is done for a searchValue of type Boolean returns the search results 7`] = `
+Object {
+  "_id": 119,
+  "created_at": "2016-02-29T03:45:12 -11:00",
+  "details": "Non profit",
+  "domain_names": Array [
+    "bleeko.com",
+    "pulze.com",
+    "xoggle.com",
+    "sultraxin.com",
+  ],
+  "external_id": "2386db7c-5056-49c9-8dc4-46775e464cb7",
+  "name": "Multron",
+  "shared_tickets": false,
+  "tags": Array [
+    "Erickson",
+    "Mccoy",
+    "Wiggins",
+    "Brooks",
+  ],
+  "url": "http://initech.zendesk.com/api/v2/organizations/119.json",
+  "user_0": "Francisca Rasmussen",
+}
+`;
+
+exports[`Search for searchTerm & searchValue When search is done for a searchValue of type Boolean returns the search results 8`] = `
+Object {
+  "_id": 120,
+  "created_at": "2016-01-15T04:11:08 -11:00",
+  "details": "MegaCorp",
+  "domain_names": Array [
+    "valpreal.com",
+    "puria.com",
+    "bostonic.com",
+    "roughies.com",
+  ],
+  "external_id": "82da5daf-d6ad-484d-a831-05cd3e2baea5",
+  "name": "Andershun",
+  "shared_tickets": false,
+  "tags": Array [
+    "Robinson",
+    "Santana",
+    "Whitehead",
+    "England",
+  ],
+  "ticket_0": "A Nuisance in Kiribati",
+  "ticket_1": "A Catastrophe in Lesotho",
+  "url": "http://initech.zendesk.com/api/v2/organizations/120.json",
+}
+`;
