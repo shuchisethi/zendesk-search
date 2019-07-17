@@ -11,11 +11,11 @@
 ## Setup
 This application is developed and tested on v10.16.0(latest LTS version) of Node.js
 
-###Node.js setup
+### Node.js setup
 
 Verify the node version using - ```node --version```
 
-####Installing Node.js on OSX or Linux
+#### Installing Node.js on OSX or Linux
 If node isn't install, install is using nvm
 - Download the nvm install script via cURL:
 
@@ -31,10 +31,10 @@ If node isn't install, install is using nvm
 - Use the latest LTS version
 ```nvm use --lts```
 
-####Installing Node.js on Windows
+#### Installing Node.js on Windows
 https://nodejs.org/en/download/
 
-####Cloning the Repository
+#### Cloning the Repository
 ```git clone https://github.com/shuchisethi/zendesk-search.git```
 
 Install Node dependencies ```npm install```
@@ -43,19 +43,24 @@ Running the search program ```npm run search```
 
 
 #### How it works?
-- Displays the welcome message to user
+- Displays the welcome message to user 
+
 ![image](https://user-images.githubusercontent.com/4567768/61338739-40eb0300-a87e-11e9-9574-12cc3ea2bc95.png)
 
 - If user 'Enters' to proceed, user is shown options to select
+
 ![image](https://user-images.githubusercontent.com/4567768/61338793-7bed3680-a87e-11e9-8361-0f6cad9eb3c6.png)
 
 - User selects option 1
+
 ![image](https://user-images.githubusercontent.com/4567768/61338922-e4d4ae80-a87e-11e9-9a01-15b5a02bc9ea.png)
 
 - User selects option 2
+
 ![image](https://user-images.githubusercontent.com/4567768/61338849-b3f47980-a87e-11e9-85a3-cb3f9a921be2.png)
 
 - User types - quit
+
 ![image](https://user-images.githubusercontent.com/4567768/61338973-10579900-a87f-11e9-9675-d800d944d64b.png)
 
 
